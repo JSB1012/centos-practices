@@ -16,7 +16,7 @@
 # yum install -y ncurses-devel
 # yum install -y cmake.x86_64
 # yum install -y libaio
-iconv 소스 컴파일 설치를 한다.
+iconv 소스 컴파일 설치를 한다. 다운 후 ./configure -> make -> make install
 
 2. 소스 다운로드
 # wget https://downloads.mariadb.org/interstitial/mariadb-10.1.48/source/mariadb-10.1.48.tar.gz 
